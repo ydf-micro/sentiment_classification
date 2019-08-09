@@ -1,0 +1,3 @@
+glove训练的词向量使用网站上已有的训练好的
+下载地址https://nlp.stanford.edu/projects/glove/
+文件挺大
